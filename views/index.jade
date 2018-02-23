@@ -1,7 +1,10 @@
 extends layout
 
 block content
-  h2 #{title}
+  h1 #{title}
+  
+  h2 
+     a(href="https://github.com/mojacka/rest") Github
 
   h3 Columns
   ul
@@ -9,6 +12,8 @@ block content
     li name
     li pro
     li id
+
+  p(style=" color: red") #{message}
   
   p 
     a(href="users") View users

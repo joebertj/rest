@@ -710,3 +710,319 @@ unexpected text |
 [90mGET /users [32m200 [90m1490ms[0m
 [90mGET /add [32m200 [90m26ms - 528b[0m
 [90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET / [32m200 [90m175ms - 486b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET / [32m200 [90m194ms - 486b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m78ms - 486b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /add [32m200 [90m54ms - 528b[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mPOST /add [32m200 [90m1543ms[0m
+[90mGET /add [32m200 [90m21ms - 528b[0m
+[90mGET /users [32m200 [90m1505ms[0m
+[90mGET /users [32m200 [90m1382ms[0m
+[90mGET /users [32m200 [90m1440ms[0m
+[90mGET /add [32m200 [90m27ms - 528b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mPOST /add [32m200 [90m1481ms[0m
+[90mGET / [32m200 [90m27ms - 486b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /users [32m200 [90m1407ms[0m
+[90mGET / [32m200 [90m40ms - 493b[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /users [32m200 [90m1521ms[0m
+[90mGET /add [32m200 [90m17ms - 528b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mPOST /add [32m200 [90m1468ms[0m
+[90mGET /add [32m200 [90m20ms - 528b[0m
+[90mGET / [32m200 [90m21ms - 493b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /users [32m200 [90m1501ms[0m
+
+> rest@0.0.1 start /home/kenchlig/node.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+[90mGET / [32m200 [90m768ms - 493b[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET /add [32m200 [90m154ms - 528b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET / [32m200 [90m51ms - 493b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /users [32m200 [90m1594ms[0m
+[90mGET /add [32m200 [90m70ms - 528b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mPOST /add [32m200 [90m1549ms - 505b[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /users [32m200 [90m1516ms[0m
+[90mGET / [32m200 [90m54ms - 493b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /add [32m200 [90m43ms - 528b[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mPOST /add [32m200 [90m1509ms - 525b[0m
+[90mGET / [32m200 [90m24ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /users [32m200 [90m1408ms[0m
+[90mGET / [32m200 [90m22ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /add [32m200 [90m30ms - 528b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mPOST /add [32m200 [90m1524ms - 525b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [32m200 [90m1505ms[0m
+[90mGET /users [32m200 [90m1416ms[0m
+
+> rest@0.0.1 start /home/kenchlig/node.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+[90mGET /users [32m200 [90m2181ms - 1.33kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+[90mGET / [32m200 [90m173ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /users [32m200 [90m1683ms - 5.56kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET / [32m200 [90m165ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [36m304 [90m1687ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET / [32m200 [90m106ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+
+> rest@0.0.1 start /home/kenchlig/node.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+[90mGET /users [36m304 [90m2200ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m5ms[0m
+[90mGET / [32m200 [90m283ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /users [36m304 [90m1544ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m70ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+
+> rest@0.0.1 start /home/kenchlig/node.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+[90mGET /users [32m200 [90m2186ms - 1.33kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+[90mGET / [32m200 [90m193ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [36m304 [90m1628ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+
+> rest@0.0.1 start /home/kenchlig/node.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+[90mGET / [32m200 [90m650ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m7ms[0m
+/home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb/lib/utils.js:123
+    process.nextTick(function() { throw err; });
+                                  ^
+
+SyntaxError: Unexpected token { in JSON at position 65
+    at Object.parse (native)
+    at /home/kenchlig/node.kenchlightyear.com/rest/routes/user.js:32:96
+    at /home/kenchlig/node.kenchlightyear.com/rest/routes/user.js:19:4
+    at handleCallback (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb/lib/utils.js:120:56)
+    at /home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb/lib/cursor.js:749:16
+    at handleCallback (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb/lib/utils.js:120:56)
+    at /home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb/lib/cursor.js:683:5
+    at handleCallback (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb-core/lib/cursor.js:171:5)
+    at setCursorDeadAndNotified (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb-core/lib/cursor.js:505:3)
+    at nextFunction (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb-core/lib/cursor.js:658:7)
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.25.el6.x86_64
+npm ERR! argv "/home/kenchlig/bin/node" "/home/kenchlig/bin/npm" "start"
+npm ERR! node v6.11.4
+npm ERR! npm  v3.10.10
+npm ERR! code ELIFECYCLE
+npm ERR! rest@0.0.1 start: `node app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the rest@0.0.1 start script 'node app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the rest package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs rest
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls rest
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/kenchlig/node.kenchlightyear.com/rest/npm-debug.log
+
+> rest@0.0.1 start /home/kenchlig/node.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+[90mGET / [32m200 [90m677ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m7ms[0m
+[90mGET /users [32m200 [90m1674ms - 5.56kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+
+> rest@0.0.1 start /home/kenchlig/node.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+[90mGET / [32m200 [90m713ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+[90mGET /users [32m200 [90m1677ms - 5.71kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m5ms[0m
+[90mGET / [32m200 [90m160ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+
+> rest@0.0.1 start /home/kenchlig/node.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+[90mGET /users [32m200 [90m2313ms - 5.71kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+
+> rest@0.0.1 start /home/kenchlig/node.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+[90mGET / [32m200 [90m797ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m8ms[0m
+/home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb/lib/utils.js:123
+    process.nextTick(function() { throw err; });
+                                  ^
+
+SyntaxError: Unexpected token { in JSON at position 1
+    at Object.parse (native)
+    at /home/kenchlig/node.kenchlightyear.com/rest/routes/user.js:33:96
+    at /home/kenchlig/node.kenchlightyear.com/rest/routes/user.js:20:4
+    at handleCallback (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb/lib/utils.js:120:56)
+    at /home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb/lib/cursor.js:749:16
+    at handleCallback (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb/lib/utils.js:120:56)
+    at /home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb/lib/cursor.js:683:5
+    at handleCallback (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb-core/lib/cursor.js:171:5)
+    at setCursorDeadAndNotified (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb-core/lib/cursor.js:505:3)
+    at nextFunction (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb-core/lib/cursor.js:658:7)
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.25.el6.x86_64
+npm ERR! argv "/home/kenchlig/bin/node" "/home/kenchlig/bin/npm" "start"
+npm ERR! node v6.11.4
+npm ERR! npm  v3.10.10
+npm ERR! code ELIFECYCLE
+npm ERR! rest@0.0.1 start: `node app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the rest@0.0.1 start script 'node app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the rest package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs rest
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls rest
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/kenchlig/node.kenchlightyear.com/rest/npm-debug.log
+
+> rest@0.0.1 start /home/kenchlig/node.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+[90mGET / [32m200 [90m774ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+/home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb/lib/utils.js:123
+    process.nextTick(function() { throw err; });
+                                  ^
+
+SyntaxError: Unexpected token { in JSON at position 1
+    at Object.parse (native)
+    at /home/kenchlig/node.kenchlightyear.com/rest/routes/user.js:34:96
+    at /home/kenchlig/node.kenchlightyear.com/rest/routes/user.js:21:4
+    at handleCallback (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb/lib/utils.js:120:56)
+    at /home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb/lib/cursor.js:749:16
+    at handleCallback (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb/lib/utils.js:120:56)
+    at /home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb/lib/cursor.js:683:5
+    at handleCallback (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb-core/lib/cursor.js:171:5)
+    at setCursorDeadAndNotified (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb-core/lib/cursor.js:505:3)
+    at nextFunction (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb-core/lib/cursor.js:658:7)
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.25.el6.x86_64
+npm ERR! argv "/home/kenchlig/bin/node" "/home/kenchlig/bin/npm" "start"
+npm ERR! node v6.11.4
+npm ERR! npm  v3.10.10
+npm ERR! code ELIFECYCLE
+npm ERR! rest@0.0.1 start: `node app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the rest@0.0.1 start script 'node app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the rest package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs rest
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls rest
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/kenchlig/node.kenchlightyear.com/rest/npm-debug.log
+
+> rest@0.0.1 start /home/kenchlig/node.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+[90mGET / [32m200 [90m886ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m13ms[0m
+[90mGET /users [32m200 [90m1722ms - 1.41kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET / [32m200 [90m220ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+SyntaxError: /home/kenchlig/node.kenchlightyear.com/rest/views/list.jade:9
+    7|   p(style=" color: blue") #{message}
+    8| 
+  > 9|   each key in #{jsonmsg}
+    10|     p !{key.action} !{key.result}
+    11|   
+    12|   p 
+
+Invalid or unexpected token
+    at assertExpression (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:30:3)
+    at Object.each (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:565:7)
+    at Object.next (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:931:15)
+    at Object.lookahead (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:113:46)
+    at Parser.lookahead (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:102:23)
+    at Parser.peek (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:79:17)
+    at Parser.tag (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:832:30)
+    at Parser.parseTag (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:759:17)
+    at Parser.parseExpr (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:211:21)
+    at Parser.block (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:729:25)
+[90mGET /users [31m500 [90m1523ms[0m
+[90mGET / [32m200 [90m114ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [32m200 [90m1540ms - 1.41kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m199ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /users [32m200 [90m1495ms - 1.43kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [32m200 [90m1612ms - 1.76kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET / [32m200 [90m249ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m

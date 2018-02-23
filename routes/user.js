@@ -9,15 +9,9 @@ var url = 'mongodb://test:test@ds121665.mlab.com:21665/users';
 
 var findUsers = function(db, callback) {
 	var collection = db.collection('users');
-	var cursor = collection.find( );
-	var str = "";
-	cursor.each(function(err, doc) {
+	var cursor = collection.find().toArray(function(err, doc) {
 		assert.equal(err, null);
-		if (doc !== null) {
-			str += JSON.stringify(doc);
-		} else {
-			callback(str);
-		}
+		callback(doc);
 	});
 };
 
@@ -28,10 +22,9 @@ exports.list = function(req, res){
 	});*/
 	MongoClient.connect(url, function(err, db) {
 		assert.equal(null, err);
-		findUsers(db, function(str) {
-			res.end(str);
-			db.close();
-		});
+		findUsers(db, function(doc) {
+			res.render("list",{title: 'Node.js + MongoDB + REST/CRUD/JSON', message: JSON.stringify(doc), jsonmsg: doc});
+			db.close(); });
 	});
 };
 
@@ -65,7 +58,7 @@ exports.add = function (req, res) {
 	MongoClient.connect(url, function(err, db) {
 		assert.equal(null, err);
 		addUser(req, db, function() {
-			res.end("Record added");
+			res.render('index', { title: 'Node.js + MongoDB + REST/CRUD/JSON', message: 'Record added' });
 			db.close();
 		});
 	});

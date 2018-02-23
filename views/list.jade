@@ -1,0 +1,20 @@
+extends layout
+
+block content
+  h1 #{title}
+  
+  p JSON
+  p(style=" color: blue") #{message}
+
+  table
+    tr 
+      td id
+      td name
+      td pro
+    for key in jsonmsg
+      tr 
+         td #{key.id}
+         td #{key.name}
+         td #{key.pro}
+  p 
+    a(href="/") Go Back

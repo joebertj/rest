@@ -7,7 +7,7 @@
 6 silly lifecycle rest@0.0.1~prestart: no script for prestart, continuing
 7 info lifecycle rest@0.0.1~start: rest@0.0.1
 8 verbose lifecycle rest@0.0.1~start: unsafe-perm in lifecycle true
-9 verbose lifecycle rest@0.0.1~start: PATH: /home/kenchlig/nodejs/lib/node_modules/npm/bin/node-gyp-bin:/home/kenchlig/node.kenchlightyear.com/rest/node_modules/.bin:/usr/local/jdk/bin:/home/kenchlig/perl5/bin:/usr/lib64/ccache:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/opt/cpanel/composer/bin:/usr/local/bin:/usr/X11R6/bin:/home/kenchlig/bin:/home/kenchlig/bin
+9 verbose lifecycle rest@0.0.1~start: PATH: /home/kenchlig/nodejs/lib/node_modules/npm/bin/node-gyp-bin:/home/kenchlig/node.kenchlightyear.com/rest/node_modules/.bin:/usr/bin:/bin:/home/kenchlig/bin
 10 verbose lifecycle rest@0.0.1~start: CWD: /home/kenchlig/node.kenchlightyear.com/rest
 11 silly lifecycle rest@0.0.1~start: Args: [ '-c', 'node app.js' ]
 12 silly lifecycle rest@0.0.1~start: Returned: code: 1  signal: null
