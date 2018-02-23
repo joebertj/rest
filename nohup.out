@@ -1,0 +1,712 @@
+
+Usage: npm <command>
+
+where <command> is one of:
+    access, adduser, bin, bugs, c, cache, completion, config,
+    ddp, dedupe, deprecate, dist-tag, docs, edit, explore, get,
+    help, help-search, i, init, install, install-test, it, link,
+    list, ln, login, logout, ls, outdated, owner, pack, ping,
+    prefix, prune, publish, rb, rebuild, repo, restart, root,
+    run, run-script, s, se, search, set, shrinkwrap, star,
+    stars, start, stop, t, tag, team, test, tst, un, uninstall,
+    unpublish, unstar, up, update, v, version, view, whoami
+
+npm <cmd> -h     quick help on <cmd>
+npm -l           display full usage info
+npm help <term>  search for help on <term>
+npm help npm     involved overview
+
+Specify configs in the ini-formatted file:
+    /home/kenchlig/.npmrc
+or on the command line via: npm <command> --key value
+Config info can be viewed via: npm help config
+
+npm@3.10.10 /home/kenchlig/nodejs/lib/node_modules/npm
+
+> rest@0.0.1 start /home/kenchlig/ex.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+
+> rest@0.0.1 start /home/kenchlig/ex.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+
+> rest@0.0.1 start /home/kenchlig/ex.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 50000
+
+/home/kenchlig/ex.kenchlightyear.com/rest/node_modules/mongodb/lib/mongo_client.js:421
+          throw err
+          ^
+AssertionError: null == { MongoError: failed to connect to server [ds121665.mlab.com:21665] on first connect [MongoError: connect ETIMEDOUT 54.224.172.1
+    at /home/kenchlig/ex.kenchlightyear.com/rest/routes/user.js:30:10
+    at connectCallback (/home/kenchlig/ex.kenchlightyear.com/rest/node_modules/mongodb/lib/mongo_client.js:515:5)
+    at /home/kenchlig/ex.kenchlightyear.com/rest/node_modules/mongodb/lib/mongo_client.js:418:11
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.25.el6.x86_64
+npm ERR! argv "/home/kenchlig/bin/node" "/home/kenchlig/bin/npm" "start"
+npm ERR! node v6.11.4
+npm ERR! npm  v3.10.10
+npm ERR! code ELIFECYCLE
+npm ERR! rest@0.0.1 start: `node app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the rest@0.0.1 start script 'node app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the rest package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs rest
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls rest
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/kenchlig/ex.kenchlightyear.com/rest/npm-debug.log
+
+> rest@0.0.1 start /home/kenchlig/ex.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+[90mGET / [32m200 [90m647ms - 170b[0m
+[90mGET /stylesheets/style.css [32m200 [90m10ms - 110b[0m
+
+/home/kenchlig/ex.kenchlightyear.com/rest/node_modules/mongodb/lib/mongo_client.js:421
+          throw err
+          ^
+AssertionError: null == { MongoError: failed to connect to server [ds121665.mlab.com:21665] on first connect [MongoError: connect ETIMEDOUT 54.224.172.1
+    at /home/kenchlig/ex.kenchlightyear.com/rest/routes/user.js:30:10
+    at connectCallback (/home/kenchlig/ex.kenchlightyear.com/rest/node_modules/mongodb/lib/mongo_client.js:515:5)
+    at /home/kenchlig/ex.kenchlightyear.com/rest/node_modules/mongodb/lib/mongo_client.js:418:11
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.25.el6.x86_64
+npm ERR! argv "/home/kenchlig/bin/node" "/home/kenchlig/bin/npm" "start"
+npm ERR! node v6.11.4
+npm ERR! npm  v3.10.10
+npm ERR! code ELIFECYCLE
+npm ERR! rest@0.0.1 start: `node app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the rest@0.0.1 start script 'node app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the rest package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs rest
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls rest
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/kenchlig/ex.kenchlightyear.com/rest/npm-debug.log
+
+> rest@0.0.1 start /home/kenchlig/ex.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+
+/home/kenchlig/ex.kenchlightyear.com/rest/node_modules/mongodb/lib/mongo_client.js:421
+          throw err
+          ^
+AssertionError: null == { MongoError: failed to connect to server [ds121665.mlab.com:21665] on first connect [MongoError: connect ETIMEDOUT 54.224.172.1
+    at /home/kenchlig/ex.kenchlightyear.com/rest/routes/user.js:30:10
+    at connectCallback (/home/kenchlig/ex.kenchlightyear.com/rest/node_modules/mongodb/lib/mongo_client.js:515:5)
+    at /home/kenchlig/ex.kenchlightyear.com/rest/node_modules/mongodb/lib/mongo_client.js:418:11
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.25.el6.x86_64
+npm ERR! argv "/home/kenchlig/bin/node" "/home/kenchlig/bin/npm" "start"
+npm ERR! node v6.11.4
+npm ERR! npm  v3.10.10
+npm ERR! code ELIFECYCLE
+npm ERR! rest@0.0.1 start: `node app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the rest@0.0.1 start script 'node app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the rest package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs rest
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls rest
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/kenchlig/ex.kenchlightyear.com/rest/npm-debug.log
+
+> rest@0.0.1 start /home/kenchlig/ex.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+
+/home/kenchlig/ex.kenchlightyear.com/rest/node_modules/mongodb/lib/mongo_client.js:421
+          throw err
+          ^
+AssertionError: null == { MongoError: failed to connect to server [ds121665.mlab.com:21665] on first connect [MongoError: connect ETIMEDOUT 54.224.172.1
+    at /home/kenchlig/ex.kenchlightyear.com/rest/routes/user.js:30:10
+    at connectCallback (/home/kenchlig/ex.kenchlightyear.com/rest/node_modules/mongodb/lib/mongo_client.js:515:5)
+    at /home/kenchlig/ex.kenchlightyear.com/rest/node_modules/mongodb/lib/mongo_client.js:418:11
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.25.el6.x86_64
+npm ERR! argv "/home/kenchlig/bin/node" "/home/kenchlig/bin/npm" "start"
+npm ERR! node v6.11.4
+npm ERR! npm  v3.10.10
+npm ERR! code ELIFECYCLE
+npm ERR! rest@0.0.1 start: `node app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the rest@0.0.1 start script 'node app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the rest package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs rest
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls rest
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/kenchlig/ex.kenchlightyear.com/rest/npm-debug.log
+
+> rest@0.0.1 start /home/kenchlig/ex.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+[90mGET / [32m200 [90m645ms - 170b[0m
+[90mGET /stylesheets/style.css [36m304 [90m7ms[0m
+[90mGET / [32m200 [90m35ms - 170b[0m
+[90mGET / [32m200 [90m52ms - 170b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /users [32m200 [90m1506ms[0m
+[90mGET /users [32m200 [90m1536ms[0m
+[90mGET / [32m200 [90m202ms - 170b[0m
+[90mGET / [32m200 [90m46ms - 170b[0m
+[90mGET /users [32m200 [90m1384ms[0m
+[90mGET / [32m200 [90m10ms - 170b[0m
+[90mGET / [32m200 [90m7ms - 170b[0m
+[90mGET / [32m200 [90m17ms - 170b[0m
+[90mGET / [32m200 [90m11ms - 170b[0m
+[90mHEAD / [32m200 [90m10ms - 170b[0m
+[90mHEAD / [32m200 [90m12ms - 170b[0m
+[90mGET / [32m200 [90m11ms - 170b[0m
+[90mHEAD / [32m200 [90m11ms - 170b[0m
+[90mHEAD / [32m200 [90m14ms - 170b[0m
+[90mGET / [32m200 [90m21ms - 170b[0m
+[90mGET / [32m200 [90m10ms - 170b[0m
+[90mPOST /command.php [33m404 [90m5ms[0m
+[90mGET /system.ini?loginuse&loginpas [32m200 [90m1583ms[0m
+[90mGET /upgrade_handle.php?cmd=writeuploaddir&uploaddir=%27;echo+nuuo+123456;%27 [32m200 [90m1408ms[0m
+[90mGET /board.cgi?cmd=cat%20/etc/passwd [32m200 [90m1450ms[0m
+[90mPOST /hedwig.cgi [33m404 [90m1ms[0m
+[90mPOST /apply.cgi [33m404 [90m0ms[0m
+[90mGET /setup.cgi?next_file=netgear.cfg&todo=syscmd&curpath=/&currentsetting.htm=1&cmd=echo+dgn+123456 [32m200 [90m1416ms[0m
+[90mGET /cgi-bin/user/Config.cgi?.cab&action=get&category=Account.* [33m404 [90m2ms[0m
+[90mGET /shell?echo+jaws+123456;cat+/proc/cpuinfo [32m200 [90m1435ms[0m
+
+> rest@0.0.1 start /home/kenchlig/ex.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+[90mGET /users [32m200 [90m1738ms[0m
+[90mGET / [32m200 [90m1296ms - 170b[0m
+[90mGET /stylesheets/style.css [32m200 [90m13ms - 110b[0m
+
+> rest@0.0.1 start /home/kenchlig/ex.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+
+> rest@0.0.1 start /home/kenchlig/ex.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+
+> rest@0.0.1 start /home/kenchlig/ex.kenchlightyear.com/rest
+> node app.js
+
+/home/kenchlig/ex.kenchlightyear.com/rest/app.js:15
+  key: fs.readFileSync('ex.key'),
+       ^
+
+ReferenceError: fs is not defined
+    at Object.<anonymous> (/home/kenchlig/ex.kenchlightyear.com/rest/app.js:15:8)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+    at Function.Module._load (module.js:438:3)
+    at Module.runMain (module.js:604:10)
+    at run (bootstrap_node.js:383:7)
+    at startup (bootstrap_node.js:149:9)
+    at bootstrap_node.js:496:3
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.25.el6.x86_64
+npm ERR! argv "/home/kenchlig/bin/node" "/home/kenchlig/bin/npm" "start"
+npm ERR! node v6.11.4
+npm ERR! npm  v3.10.10
+npm ERR! code ELIFECYCLE
+npm ERR! rest@0.0.1 start: `node app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the rest@0.0.1 start script 'node app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the rest package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs rest
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls rest
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/kenchlig/ex.kenchlightyear.com/rest/npm-debug.log
+
+> rest@0.0.1 start /home/kenchlig/ex.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+
+> rest@0.0.1 start /home/kenchlig/ex.kenchlightyear.com/rest
+> node app.js
+
+events.js:160
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EACCES 0.0.0.0:443
+    at Object.exports._errnoException (util.js:1020:11)
+    at exports._exceptionWithHostPort (util.js:1043:20)
+    at Server._listen2 (net.js:1249:19)
+    at listen (net.js:1298:10)
+    at Server.listen (net.js:1394:5)
+    at Object.<anonymous> (/home/kenchlig/ex.kenchlightyear.com/rest/app.js:43:33)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.25.el6.x86_64
+npm ERR! argv "/home/kenchlig/bin/node" "/home/kenchlig/bin/npm" "start"
+npm ERR! node v6.11.4
+npm ERR! npm  v3.10.10
+npm ERR! code ELIFECYCLE
+npm ERR! rest@0.0.1 start: `node app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the rest@0.0.1 start script 'node app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the rest package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs rest
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls rest
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/kenchlig/ex.kenchlightyear.com/rest/npm-debug.log
+
+> rest@0.0.1 start /home/kenchlig/ex.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+
+> rest@0.0.1 start /home/kenchlig/ex.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+
+> rest@0.0.1 start /home/kenchlig/ex.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+
+> rest@0.0.1 start /home/kenchlig/ex.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+
+> rest@0.0.1 start /home/kenchlig/ex.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+[90mGET / [32m200 [90m418ms - 170b[0m
+
+> rest@0.0.1 start /home/kenchlig/ex.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+
+> rest@0.0.1 start /home/kenchlig/ex.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+[90mGET / [32m200 [90m484ms - 170b[0m
+[90mGET /stylesheets/style.css [32m200 [90m15ms - 110b[0m
+[90mGET /users [32m200 [90m1512ms[0m
+[90mGET / [32m200 [90m56ms - 170b[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET / [32m200 [90m58ms - 170b[0m
+[90mGET / [32m200 [90m46ms - 170b[0m
+[90mGET /stylesheets/style.css [32m200 [90m8ms - 110b[0m
+
+/home/kenchlig/ex.kenchlightyear.com/rest/node_modules/mongodb/lib/mongo_client.js:421
+          throw err
+          ^
+AssertionError: null == { MongoError: failed to connect to server [ds121665.mlab.com:21665] on first connect [MongoError: connect ETIMEDOUT 35.153.105.1
+    at /home/kenchlig/ex.kenchlightyear.com/rest/routes/user.js:30:10
+    at connectCallback (/home/kenchlig/ex.kenchlightyear.com/rest/node_modules/mongodb/lib/mongo_client.js:515:5)
+    at /home/kenchlig/ex.kenchlightyear.com/rest/node_modules/mongodb/lib/mongo_client.js:418:11
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.25.el6.x86_64
+npm ERR! argv "/home/kenchlig/bin/node" "/home/kenchlig/bin/npm" "start"
+npm ERR! node v6.11.4
+npm ERR! npm  v3.10.10
+npm ERR! code ELIFECYCLE
+npm ERR! rest@0.0.1 start: `node app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the rest@0.0.1 start script 'node app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the rest package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs rest
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls rest
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/kenchlig/ex.kenchlightyear.com/rest/npm-debug.log
+
+> rest@0.0.1 start /home/kenchlig/node.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+
+/home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb/lib/mongo_client.js:421
+          throw err
+          ^
+AssertionError: null == { MongoError: failed to connect to server [ds121665.mlab.com:21665] on first connect [MongoError: connect ETIMEDOUT 35.153.105.1
+    at /home/kenchlig/node.kenchlightyear.com/rest/routes/user.js:30:10
+    at connectCallback (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb/lib/mongo_client.js:515:5)
+    at /home/kenchlig/node.kenchlightyear.com/rest/node_modules/mongodb/lib/mongo_client.js:418:11
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.25.el6.x86_64
+npm ERR! argv "/home/kenchlig/bin/node" "/home/kenchlig/bin/npm" "start"
+npm ERR! node v6.11.4
+npm ERR! npm  v3.10.10
+npm ERR! code ELIFECYCLE
+npm ERR! rest@0.0.1 start: `node app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the rest@0.0.1 start script 'node app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the rest package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs rest
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls rest
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/kenchlig/node.kenchlightyear.com/rest/npm-debug.log
+
+> rest@0.0.1 start /home/kenchlig/node.kenchlightyear.com/rest
+> node app.js
+
+/home/kenchlig/node.kenchlightyear.com/rest/node_modules/express/lib/router/index.js:252
+    throw new Error(msg);
+    ^
+
+Error: .get() requires callback functions but got a [object Undefined]
+    at /home/kenchlig/node.kenchlightyear.com/rest/node_modules/express/lib/router/index.js:252:11
+    at Array.forEach (native)
+    at Router.route (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/express/lib/router/index.js:248:13)
+    at Router.(anonymous function) [as get] (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/express/lib/router/index.js:270:16)
+    at Function.app.(anonymous function) [as get] (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/express/lib/application.js:414:26)
+    at Object.<anonymous> (/home/kenchlig/node.kenchlightyear.com/rest/app.js:33:5)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.25.el6.x86_64
+npm ERR! argv "/home/kenchlig/bin/node" "/home/kenchlig/bin/npm" "start"
+npm ERR! node v6.11.4
+npm ERR! npm  v3.10.10
+npm ERR! code ELIFECYCLE
+npm ERR! rest@0.0.1 start: `node app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the rest@0.0.1 start script 'node app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the rest package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs rest
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls rest
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/kenchlig/node.kenchlightyear.com/rest/npm-debug.log
+
+> rest@0.0.1 start /home/kenchlig/node.kenchlightyear.com/rest
+> node app.js
+
+/home/kenchlig/node.kenchlightyear.com/rest/node_modules/express/lib/router/index.js:252
+    throw new Error(msg);
+    ^
+
+Error: .get() requires callback functions but got a [object Undefined]
+    at /home/kenchlig/node.kenchlightyear.com/rest/node_modules/express/lib/router/index.js:252:11
+    at Array.forEach (native)
+    at Router.route (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/express/lib/router/index.js:248:13)
+    at Router.(anonymous function) [as get] (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/express/lib/router/index.js:270:16)
+    at Function.app.(anonymous function) [as get] (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/express/lib/application.js:414:26)
+    at Object.<anonymous> (/home/kenchlig/node.kenchlightyear.com/rest/app.js:33:5)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.25.el6.x86_64
+npm ERR! argv "/home/kenchlig/bin/node" "/home/kenchlig/bin/npm" "start"
+npm ERR! node v6.11.4
+npm ERR! npm  v3.10.10
+npm ERR! code ELIFECYCLE
+npm ERR! rest@0.0.1 start: `node app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the rest@0.0.1 start script 'node app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the rest package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs rest
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls rest
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/kenchlig/node.kenchlightyear.com/rest/npm-debug.log
+
+> rest@0.0.1 start /home/kenchlig/node.kenchlightyear.com/rest
+> node app.js
+
+/home/kenchlig/node.kenchlightyear.com/rest/node_modules/express/lib/router/index.js:252
+    throw new Error(msg);
+    ^
+
+Error: .get() requires callback functions but got a [object Undefined]
+    at /home/kenchlig/node.kenchlightyear.com/rest/node_modules/express/lib/router/index.js:252:11
+    at Array.forEach (native)
+    at Router.route (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/express/lib/router/index.js:248:13)
+    at Router.(anonymous function) [as get] (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/express/lib/router/index.js:270:16)
+    at Function.app.(anonymous function) [as get] (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/express/lib/application.js:414:26)
+    at Object.<anonymous> (/home/kenchlig/node.kenchlightyear.com/rest/app.js:33:5)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.25.el6.x86_64
+npm ERR! argv "/home/kenchlig/bin/node" "/home/kenchlig/bin/npm" "start"
+npm ERR! node v6.11.4
+npm ERR! npm  v3.10.10
+npm ERR! code ELIFECYCLE
+npm ERR! rest@0.0.1 start: `node app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the rest@0.0.1 start script 'node app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the rest package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs rest
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls rest
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/kenchlig/node.kenchlightyear.com/rest/npm-debug.log
+
+> rest@0.0.1 start /home/kenchlig/node.kenchlightyear.com/rest
+> node app.js
+
+/home/kenchlig/node.kenchlightyear.com/rest/node_modules/express/lib/router/index.js:252
+    throw new Error(msg);
+    ^
+
+Error: .get() requires callback functions but got a [object Undefined]
+    at /home/kenchlig/node.kenchlightyear.com/rest/node_modules/express/lib/router/index.js:252:11
+    at Array.forEach (native)
+    at Router.route (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/express/lib/router/index.js:248:13)
+    at Router.(anonymous function) [as get] (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/express/lib/router/index.js:270:16)
+    at Function.app.(anonymous function) [as get] (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/express/lib/application.js:414:26)
+    at Object.<anonymous> (/home/kenchlig/node.kenchlightyear.com/rest/app.js:33:5)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+    at tryModuleLoad (module.js:446:12)
+
+npm ERR! Linux 2.6.32-673.26.1.lve1.4.25.el6.x86_64
+npm ERR! argv "/home/kenchlig/bin/node" "/home/kenchlig/bin/npm" "start"
+npm ERR! node v6.11.4
+npm ERR! npm  v3.10.10
+npm ERR! code ELIFECYCLE
+npm ERR! rest@0.0.1 start: `node app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the rest@0.0.1 start script 'node app.js'.
+npm ERR! Make sure you have the latest version of node.js and npm installed.
+npm ERR! If you do, this is most likely a problem with the rest package,
+npm ERR! not with npm itself.
+npm ERR! Tell the author that this fails on your system:
+npm ERR!     node app.js
+npm ERR! You can get information on how to open an issue for this project with:
+npm ERR!     npm bugs rest
+npm ERR! Or if that isn't available, you can get their info via:
+npm ERR!     npm owner ls rest
+npm ERR! There is likely additional logging output above.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     /home/kenchlig/node.kenchlightyear.com/rest/npm-debug.log
+
+> rest@0.0.1 start /home/kenchlig/node.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+[90mGET / [32m200 [90m1374ms - 424b[0m
+[90mGET /stylesheets/style.css [36m304 [90m7ms[0m
+[90mGET /users [32m200 [90m1508ms[0m
+[90mGET /add [32m200 [90m69ms - 271b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /add [32m200 [90m124ms - 424b[0m
+[90mGET /stylesheets/style.css [36m304 [90m4ms[0m
+[90mGET /add [32m200 [90m133ms - 422b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /add [32m200 [90m95ms - 426b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /add [32m200 [90m44ms - 429b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /add [32m200 [90m22ms - 428b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /add [32m200 [90m26ms - 428b[0m
+[90mGET /stylesheets/style.css [32m200 [90m7ms - 288b[0m
+Error: /home/kenchlig/node.kenchlightyear.com/rest/views/add.jade:15
+    13|       | id
+    14|       input(type="text", name="id")
+  > 15|       |
+    16|       input(type="submit", value="add")
+    17|   
+    18| 
+
+unexpected text |
+   
+    at Object.fail (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:887:11)
+    at Object.next (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:947:15)
+    at Object.lookahead (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:113:46)
+    at Parser.lookahead (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:102:23)
+    at Parser.peek (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:79:17)
+    at Parser.tag (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:832:30)
+    at Parser.parseTag (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:759:17)
+    at Parser.parseExpr (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:211:21)
+    at Parser.block (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:729:25)
+    at Parser.tag (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:838:24)
+[90mGET /add [31m500 [90m14ms[0m
+[90mGET /add [32m200 [90m25ms - 413b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+Error: /home/kenchlig/node.kenchlightyear.com/rest/views/add.jade:15
+    13|       | id
+    14|       | input(type="text", name="id")
+  > 15|       |
+    16|       | input(type="submit", value="add")
+    17|   
+    18| 
+
+unexpected text |
+   
+    at Object.fail (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:887:11)
+    at Object.next (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:947:15)
+    at Object.lookahead (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:113:46)
+    at Parser.lookahead (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:102:23)
+    at Parser.peek (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:79:17)
+    at Parser.block (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:725:30)
+    at Parser.tag (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:838:24)
+    at Parser.parseTag (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:759:17)
+    at Parser.parseExpr (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:211:21)
+    at Parser.block (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:729:25)
+[90mGET /add [31m500 [90m20ms[0m
+[90mGET /add [32m200 [90m20ms - 435b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /add [32m200 [90m18ms - 446b[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /add [32m200 [90m33ms - 438b[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /add [32m200 [90m27ms - 439b[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /add [32m200 [90m42ms - 423b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /add [32m200 [90m15ms - 434b[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /add [32m200 [90m18ms - 438b[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /add [32m200 [90m20ms - 480b[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /add [32m200 [90m23ms - 528b[0m
+[90mGET /add [32m200 [90m19ms - 528b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /add [32m200 [90m23ms - 528b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m19ms - 424b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET / [32m200 [90m23ms - 424b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [32m200 [90m1490ms[0m
+[90mGET /add [32m200 [90m51ms - 528b[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET / [32m200 [90m321ms - 424b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [32m200 [90m1490ms[0m
+[90mGET /add [32m200 [90m26ms - 528b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
