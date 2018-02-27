@@ -1026,3 +1026,811 @@ Invalid or unexpected token
 [90mGET /stylesheets/style.css [36m304 [90m2ms[0m
 [90mGET / [32m200 [90m249ms - 513b[0m
 [90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /users [36m304 [90m1634ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m50ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [36m304 [90m1501ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m43ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m49ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET /users [36m304 [90m1533ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m20ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [36m304 [90m1511ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m20ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /add [32m200 [90m22ms - 528b[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /users [36m304 [90m1521ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m21ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [36m304 [90m1542ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m22ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /add [32m200 [90m23ms - 528b[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mPOST /add [32m200 [90m1449ms - 525b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /users [32m200 [90m1522ms - 1.95kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m32ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /add [32m200 [90m32ms - 528b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m189ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET / [32m200 [90m881ms - 513b[0m
+[90mGET /stylesheets/style.css [32m200 [90m7ms - 288b[0m
+[90mGET /users [32m200 [90m1544ms - 1.95kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m130ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /add [32m200 [90m52ms - 528b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mPOST /add [32m200 [90m1610ms - 525b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [32m200 [90m1547ms - 2.15kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m42ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m40ms - 513b[0m
+[90mGET /stylesheets/style.css [36m304 [90m4ms[0m
+[90mGET / [32m200 [90m15ms - 447b[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /users [32m200 [90m1536ms - 2.15kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m19ms - 447b[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /add [32m200 [90m22ms - 528b[0m
+[90mGET /stylesheets/style.css [36m304 [90m8ms[0m
+[90mGET /users [36m304 [90m1536ms[0m
+[90mGET /users [32m200 [90m1564ms - 2.15kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [32m200 [90m1539ms - 2.18kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [32m200 [90m1563ms - 2.82kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [32m200 [90m1607ms - 2.83kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [32m200 [90m1472ms - 2.91kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET /users [32m200 [90m1626ms - 3.02kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /users [32m200 [90m1575ms - 3.01kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /users [32m200 [90m1533ms - 3kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [36m304 [90m1509ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+Error: /home/kenchlig/node.kenchlightyear.com/rest/views/list.jade:25
+    23|     tr
+    24|       td(colspan="4")
+  > 25|          input(type="submit" value="Update") input(type="submit" value="Delete")
+    26|       
+    27|   p 
+    28|     a(href="/add") Add user
+
+input is self closing and should not have content.
+    at Object.visitTag (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/compiler.js:471:32)
+    at Object.visitNode (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/compiler.js:225:37)
+    at Object.visit (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/compiler.js:212:10)
+    at Object.visitBlock (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/compiler.js:295:12)
+    at Object.visitNode (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/compiler.js:225:37)
+    at Object.visit (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/compiler.js:212:10)
+    at Object.visitTag (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/compiler.js:480:12)
+    at Object.visitNode (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/compiler.js:225:37)
+    at Object.visit (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/compiler.js:212:10)
+    at Object.visitBlock (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/compiler.js:295:12)
+[90mGET /users [31m500 [90m1612ms[0m
+[90mGET /users [32m200 [90m1576ms - 3kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [32m200 [90m1543ms - 3.07kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [36m304 [90m1541ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [32m200 [90m1517ms - 3.08kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /users [32m200 [90m1540ms - 3.07kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [32m200 [90m1529ms - 3.1kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /users [32m200 [90m1536ms - 3.06kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /users [36m304 [90m1630ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /users?id=on [32m200 [90m1586ms - 3.06kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m65ms - 447b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /users [36m304 [90m1541ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users?id=on [36m304 [90m1566ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users?id=on [32m200 [90m1559ms - 3.12kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /users?keyid=5a8fc053f1fd4e070826053f [32m200 [90m1603ms - 3.12kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m7ms[0m
+[90mGET / [32m200 [90m36ms - 447b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /users [32m200 [90m1506ms - 3.12kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /users?keyid=5a8fc053f1fd4e070826053f [36m304 [90m1560ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users?keyid=5a8fc053f1fd4e070826053f [36m304 [90m1652ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /users?keyid=5a8fc053f1fd4e070826053f [36m304 [90m1482ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users?keyid=5a8fc053f1fd4e070826053f [32m200 [90m1570ms - 3.13kb[0m
+[90mGET /scripts/uord.js [32m200 [90m8ms - 363b[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET /5a8fc053f1fd4e070826053f?keyid=5a8fc053f1fd4e070826053f [32m200 [90m1490ms[0m
+[90mGET / [32m200 [90m79ms - 447b[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET /users [32m200 [90m1515ms - 3.13kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m0ms[0m
+[90mGET /5a8fc053f1fd4e070826053f?keyid=5a8fc053f1fd4e070826053f [32m200 [90m1497ms[0m
+[90mGET /5a8fc053f1fd4e070826053f [32m200 [90m1505ms[0m
+[90mGET /users [36m304 [90m1502ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m2ms[0m
+[90mGET /users [36m304 [90m1512ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [32m200 [90m3ms - 325b[0m
+[90mGET /users?keyid=5a8fc053f1fd4e070826053f [36m304 [90m1531ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m36ms - 447b[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /users [36m304 [90m1602ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users?keyid=5a8fc053f1fd4e070826053f [36m304 [90m1550ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m0ms[0m
+[90mGET /users?keyid=5a8fc053f1fd4e070826053f [32m200 [90m1559ms - 3.14kb[0m
+[90mGET /scripts/uord.js [32m200 [90m4ms - 351b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users?keyid=5a8fc053f1fd4e070826053f [36m304 [90m1565ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m2ms[0m
+[90mGET / [32m200 [90m41ms - 447b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [32m200 [90m1573ms - 3.14kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users?keyid=5a8fc053f1fd4e070826053f [36m304 [90m1534ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users?keyid=5a8fc053f1fd4e070826053f [32m200 [90m1582ms - 3.14kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /scripts/uord.js [32m200 [90m3ms - 424b[0m
+[90mGET / [32m200 [90m104ms - 447b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [32m200 [90m1561ms - 3.14kb[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m16ms[0m
+[90mGET /users?keyid=5a8fc053f1fd4e070826053f [36m304 [90m1559ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m48ms - 447b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [36m304 [90m1658ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users [32m200 [90m1496ms - 2.92kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users?keyid=0 [32m200 [90m1522ms - 2.92kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m35ms - 447b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [36m304 [90m1524ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m5ms[0m
+[90mDELETE /0 [32m200 [90m1480ms[0m
+[90mGET /users [32m200 [90m1606ms - 2.71kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /scripts/uord.js [36m304 [90m0ms[0m
+[90mGET /users [36m304 [90m1628ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [32m200 [90m5ms - 425b[0m
+[90mGET /users?keyid=9 [32m200 [90m1547ms - 2.71kb[0m
+[90mDELETE /9 [32m200 [90m1502ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users?keyid=9 [32m200 [90m1550ms - 2.46kb[0m
+[90mDELETE /9 [32m200 [90m1549ms[0m
+[90mGET /users?keyid=9 [32m200 [90m1522ms - 2.46kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users?keyid=4 [32m200 [90m1575ms - 2.46kb[0m
+[90mDELETE /4 [32m200 [90m1574ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users?keyid=4 [32m200 [90m1529ms - 2.24kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m30ms - 447b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m106ms - 694b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET / [32m200 [90m43ms - 693b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m64ms - 699b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m42ms - 695b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [32m200 [90m1564ms - 2.24kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m11ms[0m
+[90mGET /scripts/uord.js [36m304 [90m2ms[0m
+[90mGET /users [32m200 [90m1599ms - 2.24kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m0ms[0m
+[90mGET /users [32m200 [90m1600ms - 2.75kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /scripts/uord.js [32m200 [90m2ms - 544b[0m
+[90mGET /users [32m200 [90m1603ms - 2.77kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m2ms[0m
+[90mGET /users [32m200 [90m1579ms - 2.62kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users [32m200 [90m1497ms - 2.67kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users?2=2&1=1 [32m200 [90m1564ms - 2.67kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m57ms - 695b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [36m304 [90m1447ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users [36m304 [90m1607ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [32m200 [90m4ms - 545b[0m
+[90mGET /users?2=2&1=1 [36m304 [90m1526ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users?2=2&1=1 [36m304 [90m1596ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m0ms[0m
+[90mGET /users?2=2&1=1 [36m304 [90m1582ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users?2=2&1=1 [36m304 [90m1549ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /scripts/uord.js [32m200 [90m2ms - 569b[0m
+[90mGET /users?2=2&1=1 [36m304 [90m1538ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m5ms[0m
+[90mGET /users?2=2&1=1 [36m304 [90m1499ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [32m200 [90m5ms - 570b[0m
+[90mGET / [32m200 [90m35ms - 695b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [36m304 [90m1561ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users?2=2&1=1 [36m304 [90m1530ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users?2=2&1=1 [36m304 [90m1577ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /users?2=2&1=1 [36m304 [90m1487ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users?2=2&1=1 [36m304 [90m1553ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [32m200 [90m2ms - 546b[0m
+[90mGET /users?2=2&1=1 [36m304 [90m1590ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /scripts/uord.js [36m304 [90m0ms[0m
+[90mGET /users?2=2&1=1 [36m304 [90m1560ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [32m200 [90m1ms - 552b[0m
+[90mGET /users?2=2&1=1 [36m304 [90m1545ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /scripts/uord.js [36m304 [90m2ms[0m
+[90mGET /users?2=2&1=1 [36m304 [90m1578ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /scripts/uord.js [32m200 [90m5ms - 476b[0m
+[90mGET /users?5=5&8=8&6=6&7=7 [32m200 [90m1513ms - 2.67kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users?5=5&8=8&6=6&7=7 [36m304 [90m1606ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /scripts/uord.js [32m200 [90m1ms - 488b[0m
+[90mGET /users?5=5&8=8 [32m200 [90m1580ms - 2.67kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users?5=5&8=8 [36m304 [90m1563ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /scripts/uord.js [32m200 [90m2ms - 495b[0m
+[90mGET /users?5=5&8=8 [36m304 [90m1549ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users?2=2&1=1 [36m304 [90m1605ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [32m200 [90m1ms - 533b[0m
+[90mGET /users?2=2&1=1 [36m304 [90m1548ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /scripts/uord.js [32m200 [90m3ms - 530b[0m
+[90mGET /users?5=5&8=8 [36m304 [90m1538ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users?5=5&8=8 [36m304 [90m1483ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [32m200 [90m3ms - 512b[0m
+[90mGET /users?5=5&8=8 [36m304 [90m1526ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users?5=5&8=8 [36m304 [90m1623ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users?5=5&8=8 [32m200 [90m1429ms - 2.64kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /scripts/uord.js [32m200 [90m2ms - 499b[0m
+[90mDELETE /5 [32m200 [90m1474ms[0m
+[90mDELETE /8 [32m200 [90m1481ms[0m
+[90mGET /users?keyid%5B%5D=5&keyid%5B%5D=8 [32m200 [90m1572ms - 2.04kb[0m
+[90mGET /scripts/uord.js [36m304 [90m0ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /users?keyid%5B%5D=5&keyid%5B%5D=8 [36m304 [90m1559ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m2ms[0m
+[90mGET /users?keyid%5B%5D=5&keyid%5B%5D=8 [36m304 [90m1562ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /users?keyid%5B%5D=5&keyid%5B%5D=8 [36m304 [90m1563ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [32m200 [90m1ms - 526b[0m
+[90mGET /users?keyid%5B%5D=5&keyid%5B%5D=8 [36m304 [90m1497ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users?keyid%5B%5D=5&keyid%5B%5D=8 [32m200 [90m1597ms - 1.9kb[0m
+[90mGET /scripts/uord.js [36m304 [90m11ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /edit [32m200 [90m1516ms[0m
+
+> rest@0.0.1 start /home/kenchlig/node.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+[90mGET /users?keyid%5B%5D=5&keyid%5B%5D=8 [36m304 [90m3198ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+[90mGET /scripts/uord.js [36m304 [90m2ms[0m
+[90mGET /users?keyid%5B%5D=6 [32m200 [90m1794ms - 1.9kb[0m
+[90mDELETE /6 [32m200 [90m1794ms[0m
+[90mGET /scripts/uord.js [36m304 [90m3ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /users?keyid%5B%5D=6 [32m200 [90m1787ms - 1.63kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /scripts/uord.js [32m200 [90m7ms - 438b[0m
+[90mDELETE /7 [32m200 [90m1459ms[0m
+[90mGET /users?keyid%5B%5D=7 [32m200 [90m1684ms - 1.35kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users?keyid%5B%5D=1 [32m200 [90m1593ms - 1.35kb[0m
+[90mDELETE /1 [32m200 [90m1590ms[0m
+[90mGET /scripts/uord.js [32m200 [90m2ms - 419b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users?keyid%5B%5D=1 [32m200 [90m1577ms - 1.09kb[0m
+[90mDELETE /1 [32m200 [90m1580ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mDELETE /2 [32m200 [90m1480ms[0m
+[90mGET /users?keyid%5B%5D=2 [32m200 [90m1508ms - 843b[0m
+[90mGET /scripts/uord.js [32m200 [90m2ms - 502b[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /add [32m200 [90m19ms - 524b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+
+> rest@0.0.1 start /home/kenchlig/node.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+[90mGET /add [32m200 [90m432ms - 528b[0m
+[90mGET /stylesheets/style.css [36m304 [90m7ms[0m
+[90mPOST /add [32m200 [90m1580ms - 707b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /add [32m200 [90m57ms - 528b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mPOST /add [32m200 [90m1649ms - 707b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /users [32m200 [90m1640ms - 1.37kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /edit [32m200 [90m1411ms[0m
+[90mDELETE /11 [32m200 [90m1493ms[0m
+[90mGET /users?keyid%5B%5D=11 [32m200 [90m1641ms - 1.08kb[0m
+[90mGET /users?keyid%5B%5D=11 [32m200 [90m1590ms - 1.08kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m0ms[0m
+[90mGET /add [32m200 [90m49ms - 528b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mPOST /add [32m200 [90m1488ms - 707b[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /users [32m200 [90m1561ms - 1.36kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m0ms[0m
+[90mGET /edit [32m200 [90m1500ms[0m
+[90mGET / [32m200 [90m26ms - 695b[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /add [32m200 [90m31ms - 528b[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /users [36m304 [90m1531ms[0m
+[90mGET /scripts/uord.js [36m304 [90m2ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /edit [32m200 [90m1484ms[0m
+
+> rest@0.0.1 start /home/kenchlig/node.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+[90mGET / [32m200 [90m573ms - 695b[0m
+[90mGET /stylesheets/style.css [36m304 [90m4ms[0m
+[90mGET /users [36m304 [90m1687ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m4ms[0m
+[90mGET /scripts/uord.js [36m304 [90m0ms[0m
+[90mGET /edit [32m200 [90m1484ms[0m
+
+> rest@0.0.1 start /home/kenchlig/node.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+[90mGET / [32m200 [90m633ms - 695b[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+[90mGET /users [36m304 [90m1785ms[0m
+[90mGET /scripts/uord.js [36m304 [90m2ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /edit [32m200 [90m74ms - 524b[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET /users [32m200 [90m1908ms - 1.49kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET /scripts/uord.js [36m304 [90m2ms[0m
+[90mGET /edit?id=2&name= [32m200 [90m96ms - 524b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /users [36m304 [90m1803ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m5ms[0m
+[90mGET /scripts/uord.js [36m304 [90m2ms[0m
+[90mGET /users [32m200 [90m1760ms - 1.47kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users [32m200 [90m1487ms - 1.46kb[0m
+[90mGET /scripts/uord.js [36m304 [90m0ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m26ms - 524b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m62ms - 542b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m39ms - 542b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m43ms - 540b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m39ms - 540b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m27ms - 540b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m13ms - 540b[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m17ms - 540b[0m
+[90mGET /stylesheets/style.css [36m304 [90m4ms[0m
+Warning: missing space before text for line 20 of jade file "/home/kenchlig/node.kenchlightyear.com/rest/views/edit.jade"
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m25ms - 517b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+Warning: missing space before text for line 20 of jade file "/home/kenchlig/node.kenchlightyear.com/rest/views/edit.jade"
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m21ms - 517b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+Warning: missing space before text for line 20 of jade file "/home/kenchlig/node.kenchlightyear.com/rest/views/edit.jade"
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m19ms - 517b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+Warning: missing space before text for line 20 of jade file "/home/kenchlig/node.kenchlightyear.com/rest/views/edit.jade"
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m58ms - 517b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+Warning: missing space before text for line 20 of jade file "/home/kenchlig/node.kenchlightyear.com/rest/views/edit.jade"
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m15ms - 517b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+Warning: missing space before text for line 20 of jade file "/home/kenchlig/node.kenchlightyear.com/rest/views/edit.jade"
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m20ms - 517b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m30ms - 540b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET / [32m200 [90m39ms - 695b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [36m304 [90m1525ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m25ms - 540b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [36m304 [90m1496ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m20ms - 540b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m66ms - 695b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [36m304 [90m1559ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m6ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m132ms - 540b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m202ms - 540b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m80ms - 540b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+Warning: missing space before text for line 21 of jade file "/home/kenchlig/node.kenchlightyear.com/rest/views/edit.jade"
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m52ms - 541b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+Warning: missing space before text for line 21 of jade file "/home/kenchlig/node.kenchlightyear.com/rest/views/edit.jade"
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m36ms - 541b[0m
+Warning: missing space before text for line 21 of jade file "/home/kenchlig/node.kenchlightyear.com/rest/views/edit.jade"
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m38ms - 543b[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+Warning: missing space before text for line 21 of jade file "/home/kenchlig/node.kenchlightyear.com/rest/views/edit.jade"
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m24ms - 561b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+Warning: missing space before text for line 21 of jade file "/home/kenchlig/node.kenchlightyear.com/rest/views/edit.jade"
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m53ms - 561b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+Warning: missing space before text for line 21 of jade file "/home/kenchlig/node.kenchlightyear.com/rest/views/edit.jade"
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m29ms - 561b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+Warning: missing space before text for line 21 of jade file "/home/kenchlig/node.kenchlightyear.com/rest/views/edit.jade"
+[90mGET /edit?id=1&name=joeb&pro=sysad [32m200 [90m23ms - 561b[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+Warning: missing space before text for line 21 of jade file "/home/kenchlig/node.kenchlightyear.com/rest/views/edit.jade"
+[90mGET /edit?id=3&name=liezel&pro=teacher [32m200 [90m12ms - 561b[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m28ms - 695b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [36m304 [90m1552ms[0m
+[90mGET /scripts/uord.js [36m304 [90m2ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+Warning: missing space before text for line 21 of jade file "/home/kenchlig/node.kenchlightyear.com/rest/views/edit.jade"
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m30ms - 561b[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+
+> rest@0.0.1 start /home/kenchlig/node.kenchlightyear.com/rest
+> node app.js
+
+Express server listening on port 3000
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m531ms - 536b[0m
+[90mGET /users [36m304 [90m2035ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m4ms[0m
+Error: /home/kenchlig/node.kenchlightyear.com/rest/views/edit.jade:13
+    11|         td
+    12|           #{id} 
+  > 13|           input(type="hidden, name="id")
+    14|       tr
+    15|         td name
+    16|         td
+
+The end of the string was reached with no closing bracket found.
+    at Function.parseMax (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/character-parser/index.js:26:13)
+    at Object.bracketExpression (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:129:33)
+    at Object.attrs (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:610:24)
+    at Object.next (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:939:15)
+    at Object.lookahead (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:113:46)
+    at Parser.lookahead (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:102:23)
+    at Parser.peek (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:79:17)
+    at Parser.tag (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:773:22)
+    at Parser.parseTag (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:759:17)
+    at Parser.parseExpr (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:211:21)
+[90mGET /edit?id=2&name=kench&pro=none [31m500 [90m9ms[0m
+Error: /home/kenchlig/node.kenchlightyear.com/rest/views/edit.jade:13
+    11|         td
+    12|           #{id} 
+  > 13|           input(type="hidden, name="id")
+    14|       tr
+    15|         td name
+    16|         td
+
+The end of the string was reached with no closing bracket found.
+    at Function.parseMax (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/character-parser/index.js:26:13)
+    at Object.bracketExpression (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:129:33)
+    at Object.attrs (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:610:24)
+    at Object.next (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:939:15)
+    at Object.lookahead (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:113:46)
+    at Parser.lookahead (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:102:23)
+    at Parser.peek (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:79:17)
+    at Parser.tag (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:773:22)
+    at Parser.parseTag (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:759:17)
+    at Parser.parseExpr (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:211:21)
+[90mGET /edit?id=2&name=kench&pro=none [31m500 [90m12ms[0m
+[90mGET /users [32m200 [90m1655ms - 1.46kb[0m
+Error: /home/kenchlig/node.kenchlightyear.com/rest/views/edit.jade:13
+    11|         td
+    12|           #{id} 
+  > 13|           input(type="hidden, name="id")
+    14|       tr
+    15|         td name
+    16|         td
+
+The end of the string was reached with no closing bracket found.
+    at Function.parseMax (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/character-parser/index.js:26:13)
+    at Object.bracketExpression (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:129:33)
+    at Object.attrs (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:610:24)
+    at Object.next (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:939:15)
+    at Object.lookahead (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:113:46)
+    at Parser.lookahead (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:102:23)
+    at Parser.peek (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:79:17)
+    at Parser.tag (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:773:22)
+    at Parser.parseTag (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:759:17)
+    at Parser.parseExpr (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:211:21)
+[90mGET /edit?id=2&name=kench&pro=none [31m500 [90m11ms[0m
+Error: /home/kenchlig/node.kenchlightyear.com/rest/views/edit.jade:12
+    10|         td  id
+    11|         td
+  > 12|           input(type="hidden, name="id", value="#{id}")
+    13|           #{id}
+    14|       tr
+    15|         td name
+
+The end of the string was reached with no closing bracket found.
+    at Function.parseMax (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/character-parser/index.js:26:13)
+    at Object.bracketExpression (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:129:33)
+    at Object.attrs (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:610:24)
+    at Object.next (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:939:15)
+    at Object.lookahead (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:113:46)
+    at Parser.lookahead (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:102:23)
+    at Parser.peek (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:79:17)
+    at Parser.tag (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:773:22)
+    at Parser.parseTag (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:759:17)
+    at Parser.parseExpr (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:211:21)
+[90mGET /edit?id=2&name=kench&pro=none [31m500 [90m8ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m169ms - 553b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+Error: /home/kenchlig/node.kenchlightyear.com/rest/views/edit.jade:12
+    10|         td  id
+    11|         td
+  > 12|           input(type="hidden, name="id", value=id)
+    13|           #{id}
+    14|       tr
+    15|         td name
+
+The end of the string was reached with no closing bracket found.
+    at Function.parseMax (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/character-parser/index.js:26:13)
+    at Object.bracketExpression (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:129:33)
+    at Object.attrs (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:610:24)
+    at Object.next (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:939:15)
+    at Object.lookahead (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:113:46)
+    at Parser.lookahead (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:102:23)
+    at Parser.peek (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:79:17)
+    at Parser.tag (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:773:22)
+    at Parser.parseTag (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:759:17)
+    at Parser.parseExpr (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:211:21)
+[90mGET /edit?id=2&name=kench&pro=none [31m500 [90m8ms[0m
+Error: /home/kenchlig/node.kenchlightyear.com/rest/views/edit.jade:13
+    11|         td  id
+    12|         td
+  > 13|           input(type="hidden, name="id", value="#{id}")
+    14|           #{id}
+    15|       tr
+    16|         td name
+
+The end of the string was reached with no closing bracket found.
+    at Function.parseMax (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/character-parser/index.js:26:13)
+    at Object.bracketExpression (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:129:33)
+    at Object.attrs (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:610:24)
+    at Object.next (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:939:15)
+    at Object.lookahead (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:113:46)
+    at Parser.lookahead (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:102:23)
+    at Parser.peek (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:79:17)
+    at Parser.tag (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:773:22)
+    at Parser.parseTag (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:759:17)
+    at Parser.parseExpr (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:211:21)
+[90mGET /edit?id=2&name=kench&pro=none [31m500 [90m19ms[0m
+Error: /home/kenchlig/node.kenchlightyear.com/rest/views/edit.jade:13
+    11|         td  id=#{id}
+    12|         td
+  > 13|           input(type="hidden, name="id", value="#{id}")
+    14|       tr
+    15|         td name
+    16|         td
+
+The end of the string was reached with no closing bracket found.
+    at Function.parseMax (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/character-parser/index.js:26:13)
+    at Object.bracketExpression (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:129:33)
+    at Object.attrs (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:610:24)
+    at Object.next (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:939:15)
+    at Object.lookahead (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/lexer.js:113:46)
+    at Parser.lookahead (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:102:23)
+    at Parser.peek (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:79:17)
+    at Parser.tag (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:773:22)
+    at Parser.parseTag (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:759:17)
+    at Parser.parseExpr (/home/kenchlig/node.kenchlightyear.com/rest/node_modules/jade/lib/parser.js:211:21)
+[90mGET /edit?id=2&name=kench&pro=none [31m500 [90m9ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m109ms - 588b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m108ms - 593b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m2ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m47ms - 594b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [32m200 [90m7ms - 969b[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m25ms - 638b[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mPUT /%5bobject%20NodeList%5d [32m200 [90m1432ms[0m
+[90mGET /users?id=%7B%23id%7D&name=kencha&pro=none [32m200 [90m1569ms - 1.46kb[0m
+[90mGET /users?id=%7B%23id%7D&name=kencha&pro=none [32m200 [90m1573ms - 1.46kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m27ms - 695b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [36m304 [90m1497ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m161ms - 638b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /scripts/uord.js [32m200 [90m3ms - 987b[0m
+[90mPUT /undefined [32m200 [90m1514ms[0m
+[90mGET /users?id=%7B%23id%7D&name=kenchlig&pro=none [32m200 [90m1556ms - 1.46kb[0m
+[90mGET /users?id=%7B%23id%7D&name=kenchlig&pro=none [32m200 [90m1439ms - 1.46kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m213ms - 638b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /scripts/uord.js [32m200 [90m11ms - 1004b[0m
+[90mPUT /undefined [32m200 [90m1577ms[0m
+[90mGET /users?id=%7B%23id%7D&name=kenchlig&pro=none [36m304 [90m1823ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m100ms - 695b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [36m304 [90m1533ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [32m200 [90m4ms - 1.01kb[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m34ms - 638b[0m
+[90mGET /scripts/uord.js [36m304 [90m3ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mPUT /undefined [32m200 [90m1407ms[0m
+[90mGET /users?id=%7B%23id%7D&name=kenchlig&pro=none [36m304 [90m1544ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /scripts/uord.js [36m304 [90m0ms[0m
+[90mGET /users?id=%7B%23id%7D&name=kenchlig&pro=none [36m304 [90m1544ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m33ms - 638b[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m22ms - 634b[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m47ms - 634b[0m
+[90mGET /scripts/uord.js [36m304 [90m9ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m108ms - 634b[0m
+[90mGET /scripts/uord.js [36m304 [90m2ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m5ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m41ms - 628b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m2ms[0m
+[90mPUT /undefined [32m200 [90m1499ms[0m
+[90mGET /users?id=2&name=kenchlig&pro=none [32m200 [90m1534ms - 1.46kb[0m
+[90mGET /users?id=2&name=kenchlig&pro=none [32m200 [90m1466ms - 1.46kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m157ms - 628b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /edit?id=2&name=kench&pro=none [32m200 [90m121ms - 628b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [32m200 [90m2ms - 1.02kb[0m
+[90mPUT /2 [32m200 [90m1478ms[0m
+[90mGET /users?id=2&name=kenchlig&pro=none [32m200 [90m1592ms - 1.47kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m

@@ -1,20 +1,34 @@
 extends layout
 
 block content
+  script(src='/scripts/uord.js')
   h1 #{title}
   
   p JSON
   p(style=" color: blue") #{message}
 
-  table
+  form(action="/users")
+   table
     tr 
-      td id
-      td name
-      td pro
+      th
+      th id
+      th name
+      th pro
+      th
     for key in jsonmsg
-      tr 
+      tr
+         td
+            input(type="checkbox" name="keyid[]" value="#{key.id}")  
          td #{key.id}
          td #{key.name}
          td #{key.pro}
+         td
+            a(href="/edit?id=#{key.id}&name=#{key.name}&pro=#{key.pro}") Update
+    tr
+      td(colspan="5")
+         input(type="submit" value="Delete" onClick="setAction(this,'DELETE')") 
+      
+  p 
+    a(href="/add") Add user
   p 
     a(href="/") Go Back

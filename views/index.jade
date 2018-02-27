@@ -19,7 +19,23 @@ block content
     a(href="users") View users
   p
     a(href="add") Add user
-  p
-    a(href="") Update user
-  p
-    a(href="") Delete user
+
+  h3 ReST Client Reference
+  table
+     tr
+       th Method 
+       th Action
+       th Content
+     tr
+       td GET
+       td /users
+       td none
+     tr
+       td POST
+       td /add
+       td JSON
+     tr
+       td DELETE
+       td /:id
+       td none
+

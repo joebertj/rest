@@ -1,0 +1,25 @@
+extends layout
+
+block content
+  script(src='/scripts/uord.js')
+  h2 #{title}
+
+  h3 Fill in the values
+  form(action="/users")
+    input(type="hidden", name="id", value=id) 
+    table
+      tr
+        td  id
+        td #{id}
+      tr
+        td name
+        td
+          input(type="text", name="name", value="#{name}")
+      tr
+        td  pro
+        td
+          input(type="text", name="pro", value="#{pro}")
+      tr
+        td(colspan="2")
+          input(type="submit", value="Save", onClick="setAction(this,'PUT')")
+  

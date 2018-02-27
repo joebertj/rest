@@ -31,6 +31,7 @@ app.get('/', routes.index);
 app.get('/users', user.list);
 app.post('/add', user.add);
 app.get('/add', routes.add);
+app.get('/edit', routes.edit);
 app.get('/:id', user.id);
 app.delete('/:id', user.del);
 app.put('/:id',user.update);
