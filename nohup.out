@@ -1834,3 +1834,85 @@ The end of the string was reached with no closing bracket found.
 [90mGET /users?id=2&name=kenchlig&pro=none [32m200 [90m1592ms - 1.47kb[0m
 [90mGET /stylesheets/style.css [36m304 [90m1ms[0m
 [90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /add [32m200 [90m35ms - 528b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mPOST /add [32m200 [90m1499ms - 707b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [32m200 [90m1585ms - 1.79kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m0ms[0m
+[90mGET /edit?id=3&name=kristia&pro=student [32m200 [90m32ms - 633b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m46ms - 695b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m34ms - 729b[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET / [32m200 [90m58ms - 729b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /add [32m200 [90m62ms - 528b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users [36m304 [90m1602ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /users?keyid%5B%5D=3 [32m200 [90m1527ms - 1.79kb[0m
+[90mDELETE /3 [32m200 [90m1526ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m2ms[0m
+[90mGET /users?keyid%5B%5D=3 [32m200 [90m1533ms - 1.16kb[0m
+[90mGET /scripts/uord.js [36m304 [90m0ms[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /add [32m200 [90m104ms - 528b[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /add [32m200 [90m60ms - 528b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mPOST /add [32m200 [90m1479ms - 741b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /add [32m200 [90m34ms - 528b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mPOST /add [32m200 [90m1527ms - 741b[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /users [32m200 [90m1479ms - 1.79kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users? [32m200 [90m1443ms - 1.79kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m2ms[0m
+[90mGET /edit?id=1&name=joeb&pro=sysad [32m200 [90m37ms - 628b[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m0ms[0m
+[90mPUT /1 [32m200 [90m1440ms[0m
+[90mGET /users?id=1&name=joeb&pro=manager [32m200 [90m1533ms - 1.8kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users? [32m200 [90m1575ms - 1.79kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [32m200 [90m2ms - 996b[0m
+[90mGET /users? [32m200 [90m1664ms - 1.9kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /images/edit.png [32m200 [90m6ms - 29.4kb[0m
+[90mGET /users? [32m200 [90m1577ms - 1.94kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m2ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /images/edit.png [36m304 [90m2ms[0m
+[90mGET /users? [32m200 [90m1631ms - 1.94kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m3ms[0m
+[90mGET /images/edit.png [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /users? [32m200 [90m1531ms - 1.94kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m0ms[0m
+[90mGET /users? [32m200 [90m1525ms - 1.94kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m0ms[0m
+[90mGET /images/edit.png [36m304 [90m0ms[0m
+[90mGET /users? [32m200 [90m1625ms - 1.94kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m0ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /images/edit.png [36m304 [90m0ms[0m
+[90mGET /users? [32m200 [90m1536ms - 1.98kb[0m
+[90mGET /stylesheets/style.css [36m304 [90m1ms[0m
+[90mGET /scripts/uord.js [36m304 [90m1ms[0m
+[90mGET /images/edit.png [36m304 [90m1ms[0m
+[90mGET /images/check.png [32m200 [90m3ms - 19.38kb[0m

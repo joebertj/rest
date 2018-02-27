@@ -27,6 +27,5 @@ function setAction(element,method){
        element.form.submit();
     }
     xhr.send(json);
-    alert(id + " " + data.name + " " + data.pro);
   }
 }
