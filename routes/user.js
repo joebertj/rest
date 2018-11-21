@@ -5,7 +5,8 @@
 //var fs = require('fs');
 var MongoClient = require('mongodb').MongoClient;
 var assert = require('assert');
-var url = 'mongodb://test:test@ds121665.mlab.com:21665/users';
+//var url = 'mongodb://test:test@localhost:27017/users';
+var url = 'mongodb://nodejs:G8bYFxjx5d6iB7Y@ds121665.mlab.com:21665/users';
 
 var findUsers = function(db, callback) {
 	var collection = db.collection('users');

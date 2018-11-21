@@ -33,6 +33,8 @@ app.post('/add', user.add);
 app.get('/:id', user.id);
 app.delete('/:id', user.del);
 app.put('/:id',user.update);
+app.get('/add', routes.add);
+app.get('/edit', routes.edit);
 
 http.createServer(app).listen(app.get('port'), function(){
   console.log('Express server listening on port ' + app.get('port'));
