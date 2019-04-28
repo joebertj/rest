@@ -6,9 +6,9 @@
     "start": "nodejs app.js"
   },
   "dependencies": {
-    "express": "3.2.6",
-    "jade": "*",
-    "mongodb": "3.2.3",
-    "node-info": "*"
+    "express": "^3.2.6",
+    "jade": "^1.11.0",
+    "mongodb": "^3.2.3",
+    "node-info": "^2.0.0"
   }
 }
