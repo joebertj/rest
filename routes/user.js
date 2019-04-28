@@ -9,8 +9,7 @@ var assert = require('assert');
 //var url = 'mongodb://nodejs:G8bYFxjx5d6iB7Y@ds121665.mlab.com:21665/users';
 var url = 'mongodb+srv://nodejs:G8bYFxjx5d6iB7Y@cluster0-1kjkt.mongodb.net/users?retryWrites=true';
 
-var findUsers = function(db, callback) {
-	var collection = db.collection('users');
+var findUsers = function(collection, callback) {
 	var cursor = collection.find().toArray(function(err, doc) {
 		assert.equal(err, null);
 		callback(doc);
@@ -22,11 +21,13 @@ exports.list = function(req, res){
 		console.log( data );
 		res.end( data );
 	});*/
-	MongoClient.connect(url, function(err, db) {
+	MongoClient.connect(url, { useNewUrlParser: true }, function(err, client) {
 		assert.equal(null, err);
-		findUsers(db, function(doc) {
+		const collection = client.db("users").collection("users");
+		findUsers(collection, function(doc) {
 			res.render("list",{title: 'Node.js + MongoDB + REST/CRUD/JSON', message: JSON.stringify(doc), jsonmsg: doc});
-			db.close(); });
+			});
+		client.close();
 	});
 };
 
@@ -40,10 +41,10 @@ exports.list = function(req, res){
 };*/
 
 
-var addUser = function(req, db, callback) {
+var addUser = function(req, collection, callback) {
 	req.body.id = Number(req.body.id);
 	delete req.body.__proto__;
-	db.collection('users').insert(req.body, function(err, doc) {
+	collection.insert(req.body, function(err, doc) {
 		assert.equal(err, null);
 		callback();
 	});
@@ -57,17 +58,17 @@ exports.add = function (req, res) {
 		console.log( data );
 		res.end( JSON.stringify(data));
 	});*/
-	MongoClient.connect(url, function(err, db) {
+	MongoClient.connect(url, { useNewUrlParser: true }, function(err, client) {
 		assert.equal(null, err);
-		addUser(req, db, function() {
+		const collection = client.db("users").collection("users");
+		addUser(req, collection, function() {
 			res.render('index', { title: 'Node.js + MongoDB + REST/CRUD/JSON', message: 'Record added' });
-			db.close();
 		});
+		client.close();
 	});
 };
 
-var findUserbyId = function(db, id, callback) {
-	var collection = db.collection('users');
+var findUserbyId = function(collection, id, callback) {
 	var cursor = collection.find( { "id" : Number(id) } );
 	var str = "";
 	cursor.each(function(err, doc) {
@@ -81,8 +82,8 @@ var findUserbyId = function(db, id, callback) {
 };
 
 
-var deleteUser = function(db, id, callback) {
-	db.collection('users').remove( { "id" : Number(id) }, function(err, doc) {
+var deleteUser = function(collection, id, callback) {
+	collection.remove( { "id" : Number(id) }, function(err, doc) {
 		assert.equal(err, null);
 		callback();
 	});
@@ -97,12 +98,13 @@ exports.del = function (req, res) {
 	console.log( data );
 	res.end( JSON.stringify(data));
 });*/
-	MongoClient.connect(url, function(err, db) {
+	MongoClient.connect(url, { useNewUrlParser: true }, function(err, client) {
 		assert.equal(null, err);
-		deleteUser(db, req.params.id, function() {
+		const collection = client.db("users").collection("users");
+		deleteUser(collection, req.params.id, function() {
 			res.end("Record deleted");
-			db.close();
 		});
+		client.close();
 	});
 };
 
@@ -115,19 +117,19 @@ exports.id = function (req, res) {
 	console.log( user );
 	res.end( JSON.stringify(user));
 });*/
-	MongoClient.connect(url, function(err, db) {
+	MongoClient.connect(url, { useNewUrlParser: true }, function(err, client) {
 		assert.equal(null, err);
-		findUserbyId(db, req.params.id, function(str) {
+		const collection = client.db("users").collection("users");
+		findUserbyId(collection, req.params.id, function(str) {
 			res.end(str);
-			db.close();
 		});
 	});
 };
 
-var updateUserbyId = function(req, db, callback) {
+var updateUserbyId = function(req, collection, callback) {
 	req.body.id = Number(req.params.id);
 	delete req.body.__proto__;
-	db.collection('users').update( { "id" : Number(req.params.id) }, req.body, function(err, doc) {
+	collection.update( { "id" : Number(req.params.id) }, req.body, function(err, doc) {
 		assert.equal(err, null);
 		callback();
 	});
@@ -143,11 +145,12 @@ exports.update = function (req, res) {
 		console.log( data );
 		res.end( JSON.stringify(data));
 	});*/
-	MongoClient.connect(url, function(err, db) {
+	MongoClient.connect(url, { useNewUrlParser: true }, function(err, client) {
 		assert.equal(null, err);
-		updateUserbyId(req, db, function() {
+		const collection = client.db("users").collection("users");
+		updateUserbyId(req, collection, function() {
 			res.end("Record updated");
-			db.close();
 		});
+		client.close();
 	});
 };
