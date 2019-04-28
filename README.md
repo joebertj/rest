@@ -1,21 +1,10 @@
+#
+rest
 
+This is a demonstration of Node.js using MongoDB and CRUD operations
 
-# rest
+## Quick Guide
+`npm install`
+`npm start`
 
-
-
-## Usage
-
-
-
-## Developing
-
-
-
-### Tools
-
-Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)
- ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))   
-
-Nodeclipse is free open-source project that grows with your contributions.
-# rest
+You can also run this using HTTPS by pointing your key and certificate in `app.js.https` and copying it over to `app.js`.
