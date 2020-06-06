@@ -25,9 +25,9 @@ exports.list = function(req, res){
 		assert.equal(null, err);
 		const collection = client.db("users").collection("users");
 		findUsers(collection, function(doc) {
+			client.close();
 			res.render("list",{title: 'Node.js + MongoDB + REST/CRUD/JSON', message: JSON.stringify(doc), jsonmsg: doc});
 			});
-		client.close();
 	});
 };
 
@@ -62,9 +62,9 @@ exports.add = function (req, res) {
 		assert.equal(null, err);
 		const collection = client.db("users").collection("users");
 		addUser(req, collection, function() {
+			client.close();
 			res.render('index', { title: 'Node.js + MongoDB + REST/CRUD/JSON', message: 'Record added' });
 		});
-		client.close();
 	});
 };
 
@@ -102,9 +102,9 @@ exports.del = function (req, res) {
 		assert.equal(null, err);
 		const collection = client.db("users").collection("users");
 		deleteUser(collection, req.params.id, function() {
+			client.close();
 			res.end("Record deleted");
 		});
-		client.close();
 	});
 };
 
@@ -121,6 +121,7 @@ exports.id = function (req, res) {
 		assert.equal(null, err);
 		const collection = client.db("users").collection("users");
 		findUserbyId(collection, req.params.id, function(str) {
+			client.close();
 			res.end(str);
 		});
 	});
@@ -149,8 +150,8 @@ exports.update = function (req, res) {
 		assert.equal(null, err);
 		const collection = client.db("users").collection("users");
 		updateUserbyId(req, collection, function() {
+			client.close();
 			res.end("Record updated");
 		});
-		client.close();
 	});
 };
